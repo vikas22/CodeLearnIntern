@@ -52,10 +52,12 @@ sample.png,  mumbai to bangalore flights.
 to verify the results you can always use the following link.
 http://www.makemytrip.com/flights/mumbai-bangalore-cheap-airtickets.html
 
-here replace mumbai and bangalore with required source and destinations.
+in the above link replace mumbai and bangalore with required source and destinations.
 note:plugin works for only some mentioned places as above.
 
 
-i have even added the plugin project.
+I have even added the plugin project CodeLearnInternship.
+
+
 
 
