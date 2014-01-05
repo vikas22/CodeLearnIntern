@@ -5,8 +5,8 @@ Software Used : Eclipse.
 About plugin:
 
 Plugin which helps to display the information about flights and its timings of source and destination.
-For time being, i am fetching the data of only some places.
-places are :
+For time being, plugin fetches the data of only some places 
+places are (both from and to between these places only ).:
 Bangalore,Chennai,Delhi,Mumbai,Goa,cochin,hyderabad,ahmedabad.
 
 I have used makemytrip website to fetch the details.
@@ -30,10 +30,10 @@ Installation Procedure :
 2.After extracting you find a folder named export.
 3.Now, open Eclipse Ide.
 4.goto Help->Install New Software
-5.now in workwith row click Add button
-6.on the popup window in Name type "Local site" and in location type "file:Location of export folder" press ok (ref:add.png) .
+5.now in "work with" row click Add button
+6.on the popup window in Name type "Local site" and in location type "file:'Location of export folder'"(ref:add.png -> in this image i have used a sample drive location replace it with your export flder location)  press ok .
 7.uncheck group items by category.
-8.now you will find Codelearn in the above table check that and click next ->next -> accept the terms click finish ->ok.
+8.now you will find Codelearn in the above table of the window check it and click next ->next -> accept the terms click finish ->ok.
 9.now eclipse will restart.
 
 TO Check the Plugin.
